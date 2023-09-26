@@ -1,1 +1,1 @@
-# ZURI-website
+# landing page
